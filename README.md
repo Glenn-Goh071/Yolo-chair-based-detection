@@ -1,5 +1,5 @@
 # Yolo-chair-based-detection
-Trained Yolo v5 model to detect chairs and human legs for capstone project
+Trained Yolo v5 model to detect chairs and human legs 😉 for capstone project
 
 To run:
 1. Ensure python3 and all necessary dependencies installed 
